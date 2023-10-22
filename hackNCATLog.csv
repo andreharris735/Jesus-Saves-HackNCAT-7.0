@@ -1,0 +1,59 @@
+2023-10-21 15:12:36.662862,Fridge 2,Bob,Fridge was closed.
+2023-10-21 15:12:36.662862,Fridge 2,Bob,Temperature was changed to 45
+2023-10-21 15:12:36.662862,Fridge 2,System Alert,ALERT! - Temperature has fallen outside of designated range to 45
+2023-10-21 15:12:36.662862,Fridge 2,Bob, Temperature Check: Temperature is 45.
+2023-10-21 15:12:36.663868,Fridge Not Yet Selected,Bob, Bob has logged in.
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 500.0
+2023-10-21 15:13:50.218310,Fridge X,System Alert,ALERT! - Temperature has fallen outside of designated range to 500.0
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Fridge was opened.
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.6875
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:13:50.218310,Fridge X,System Alert,Fridge was closed.
+2023-10-21 15:14:07.184176,Fridge 1,Bob,Fridge was closed.
+2023-10-21 15:14:07.184728,Fridge Not Yet Selected,Bob, Bob has logged in.
+2023-10-21 15:30:59.541148,Fridge X,System Alert,ALERT! - Bob has attempted to log in.
+2023-10-21 15:30:59.541148,Fridge X,System Alert,ALERT! - Bob has attempted to log in.
+2023-10-21 15:30:59.541148,Fridge X,System Alert,ALERT! - Bob has attempted to log in.
+2023-10-21 15:31:14.499966,Fridge 1,Bob,Fridge was closed.
+2023-10-21 15:31:14.499966,Fridge 1,Bob,Temperature was changed to 45
+2023-10-21 15:31:14.499966,Fridge 1,System Alert,ALERT! - Temperature has fallen outside of designated range to 45
+2023-10-21 15:31:14.499966,Fridge 1,Bob, Temperature Check: Temperature is 45.
+2023-10-21 15:31:14.499966,Fridge 4,Bob,Fridge was closed.
+2023-10-21 15:31:14.499966,Fridge 4,Bob,Temperature was changed to 34
+2023-10-21 15:31:14.499966,Fridge 4,System Alert,ALERT! - Temperature has fallen outside of designated range to 34
+2023-10-21 15:31:14.499966,Fridge 4,Bob, Temperature Check: Temperature is 34.
+2023-10-21 15:31:14.500970,Fridge Not Yet Selected,Bob, Bob has logged in.
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 500.0
+2023-10-21 15:32:00.481910,Fridge X,System Alert,ALERT! - Temperature has fallen outside of designated range to 500.0
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Fridge was opened.
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.6875
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 13.5625
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Temperature was changed to 12.75
+2023-10-21 15:32:00.481910,Fridge X,System Alert,Fridge was closed.
+2023-10-21 22:04:30.086430,Fridge X,System Alert,ALERT! - bob has attempted to log in.
+2023-10-21 22:04:30.086430,Fridge X,System Alert,ALERT! - Andre has attempted to log in.
+2023-10-21 22:04:30.086430,Fridge X,System Alert,ALERT! - Andre has attempted to log in.
+2023-10-21 22:04:43.252988,Fridge 1,Bob,Fridge was closed.
+2023-10-21 22:04:43.252988,Fridge 1,Bob,Temperature was changed to 45
+2023-10-21 22:04:43.252988,Fridge 1,System Alert,ALERT! - Temperature has fallen outside of designated range to 45
+2023-10-21 22:04:43.252988,Fridge 1,Bob, Temperature Check: Temperature is 45.
+2023-10-21 22:04:43.252988,Fridge 4,Bob,Fridge was closed.
+2023-10-21 22:04:43.252988,Fridge 4,Bob,Temperature was changed to 45
+2023-10-21 22:04:43.252988,Fridge 4,System Alert,ALERT! - Temperature has fallen outside of designated range to 45
+2023-10-21 22:04:43.252988,Fridge 4,Bob, Temperature Check: Temperature is 45.
+2023-10-21 22:04:43.252988,Fridge Not Yet Selected,Bob, Bob has logged in.
