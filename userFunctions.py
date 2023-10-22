@@ -1,4 +1,6 @@
 from datetime import datetime
+
+# The password is checked. The user has three attempts to authenticate.
 def passwordCheck():
     counter = 0
     name = input('Please enter your username: ')
@@ -30,6 +32,7 @@ def passwordCheck():
         file.write(f"{time},Fridge X,System Alert,ALERT! - {name} has attempted to log in.\n")
         exit()
 
+# This allows the user to change their password, although still in development.
 def changePassword(currentUser, passwordDict):
     password = input("Please enter your existing password")
     count = 0
@@ -55,6 +58,7 @@ def userFunctionsMenu(currentUser):
         print("[-1] Exit\n")
         userInput = int(input("Please select an option: "))
 
+# This is a dictionary of allowed users and their passwords.
 
 passwordDict = {
     'Bob': 'abc',
@@ -62,10 +66,7 @@ passwordDict = {
     'Barny': 'password'
 }
 
-# add to logs - when a user changes the password or the username of another user
-# add the ability to change usernames
-# add
-
+# The program uses the datetime import to the current date and time for log entries and appends log entries to the hackNCATLog spreadsheet.
 time = datetime.now()
 file = open("hackNCATLog.csv", "a")
 
