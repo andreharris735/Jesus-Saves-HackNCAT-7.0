@@ -2,6 +2,7 @@ from tkinter import*
 import tkinter as tk
 from tkinter import Button,Label
 
+# This is a prototype for a User Interface instead of having the user interact with the console
 
 def clear_frame():
     for widget in window.winfo_children():
