@@ -1,8 +1,13 @@
 import fridgeFunctions
 import userFunctions
 
+# This is the file that the user will use to start the program.
 
+# The first task is checking the username and password to see if an authorized user is allowed.
 currentUser = userFunctions.passwordCheck()
+
+# If the user is authenticated, the home menu will display. 
+# Depending on what option is selected various menus will then be selected.
 
 userInput = 0
 while userInput != -1:
