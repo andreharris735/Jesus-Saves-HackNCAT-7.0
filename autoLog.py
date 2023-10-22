@@ -1,6 +1,8 @@
 from datetime import datetime
 import fridgeFunctions
 
+# This function accesses the Sample Data text file, parses through it and automatically logs entries into the hackNCATLog
+
 def gatherData(values):
     isFridgeOpen = False
     stepOne = line.split('\n')
@@ -38,6 +40,7 @@ values = {
     'value':list()
 }
 
+# In order to stop errors from occurring, if there is no data in the log file, the user is alerted and the code is terminated.
 if len(line) == 0:
     writeFile.write(f"{time},ALERT! - There is no data in the log file. The system may be powered off.\n")
     print(f"{time},ALERT! - There is no data in the log file. The system may be powered off.\n")
