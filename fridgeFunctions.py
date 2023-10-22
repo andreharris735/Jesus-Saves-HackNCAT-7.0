@@ -1,6 +1,8 @@
 from datetime import datetime
-# lowest accepted temp, highest accepted temp, current temp, user set temp
+# Most of the functions that our program uses are stored in this file. 
+# Every time an action is executed, the function prints to the console and writes to the log file.
 
+# Temperature Variable values - lowest accepted temp, highest accepted temp, current temp, user set temp
 temperature = [0, 20, 16, 15]
 activeFridge = list()
 
