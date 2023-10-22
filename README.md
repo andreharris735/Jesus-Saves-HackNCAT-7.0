@@ -25,3 +25,10 @@ Alerting the User
 
 
 Overall, it was a very fun and engaging learning experience! I thank Thermo Fisher for the opportunity to compete and the gracious prize I received.
+
+Jesus Saves Team Members:
+Andre Harris
+Bernard Bridges III
+Eden Rhodes
+Indya Griffin
+
